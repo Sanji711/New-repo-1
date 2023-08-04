@@ -1,0 +1,44 @@
+.image {
+    position: relative;
+    text-align: end;
+    color: white;
+  }
+  
+  
+  
+  .info {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color: black;
+    
+  }
+.button{
+    border: 1px;
+    width: 150px;
+    height: 40px ;
+    border-radius: 5px;
+    background-color: orangered;
+    color: white;
+    
+
+}
+.info h1{
+    font-weight: 600px;
+}
+.info p{
+    color: rgb(95, 93, 93);
+}
+.main{
+    display: flex;
+    margin-top: 300px;
+    height: 50px;
+    width: 1000px;
+    margin-left: 70px;
+    
+}
+.failures{
+    margin-top: 290px;
+    margin-left: 200px;
+}
