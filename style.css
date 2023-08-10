@@ -55,14 +55,71 @@
     padding-left: 10px;
 }
 .other-section{
-    margin-top: 500px;
-    padding: 100px;
+    margin-top: 560px;
+    padding: 349px;
 }
-.plans{
-    text-align: center;
+.Plans{
+   
+    margin-bottom: 79px;
  }
 .icons{
     display: inline-block;
-    justify-content: space-around;
+    margin-left: 6px;
+    
+    
+}
+.icons h2 h3{
+    display: flex;
+  justify-content:space-around;
+
+}
+.pic-2{
+    position: relative;
+    bottom: 304px;
+}
+.watch{
+    margin-left: 85px;
+    
+}
+.name .type{
+        text-align: center;
+}
+.type{
+    color: grey;
+}
+.watch-text{
+    width: 318px;
+    position: relative;
+    bottom: 533px;
+    left: 160px;
+    color: white;
+}
+button{
+    height: 50px;
+    width: 110px;
+    border-radius: 5px;
+    border: 0;
+    background-color:white ;
+    color: orangered;
+
+}
+.Future{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+.left{
+    width: 415px;
+    font-size: small;
+    
 }
 
+.icons-2{
+    margin-top: 201px;
+    margin-right: 996px;
+   margin-left: -394px;
+   display: flex;
+   height: 25px;
+  
+}
+   
